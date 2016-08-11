@@ -14,7 +14,7 @@
 
 **下载并解压，导入 Chrome 扩展**
 
-![](http://seeknowing.b0.upaiyun.com/CReply/creply_install.png =600x)
+![](http://seeknowing.b0.upaiyun.com/CReply/creply_install.png)
 
 **内容管理**
 
