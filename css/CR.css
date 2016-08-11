@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 300px;
+    height: 800px;
+}
+
+div {
+    text-align: center;
+    padding: 10px 15px;
+}
+
+#content {
+    padding: 10px 17px;
+}
