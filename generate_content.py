@@ -14,7 +14,7 @@ num = -1
 for line in content:
     if line.strip():
         num += 1
-        line = '<p id="list' + str(num) + '">' + line + '<button class="btn btn-info btn-sm" data-clipboard-target="#list' + str(num) + '">复制</button></p>'
+        line = '<p id="list' + str(num) + '">' + line + ' <button class="btn btn-info btn-sm" data-clipboard-target="#list' + str(num) + '"> 复制</button></p>'
         fp.write(line)
 
 fp.close

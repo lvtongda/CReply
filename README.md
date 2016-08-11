@@ -12,7 +12,7 @@
 
 #### 安装使用
 
-**下载并解压，导入 Chrome 扩展**
+**下载并解压为目录 `CReply`，导入 Chrome 扩展 `chrome://extensions/`**
 
 ![](http://seeknowing.b0.upaiyun.com/CReply/creply_install.png)
 
@@ -30,11 +30,15 @@
 白日依山尽，黄河入海流。欲穷千里目，更上一层楼。
 ```
 
-HTML 格式化，执行 `CReply/generate_content.py` 程序：
+HTML 格式化
+
+Linux/Mac 执行 `CReply/generate_content.py` 程序：
 
 ```
 $ python generate_content.py
 ```
+
+Windows 双击 `GenerateContent.exe`
 
 **演示**
 
