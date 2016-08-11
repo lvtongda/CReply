@@ -12,7 +12,7 @@
 
 #### 安装使用
 
-**下载并解压为目录 `CReply`，导入 Chrome 扩展 `chrome://extensions/`**
+**下载并解压为目录 `CReply`，导入 Chrome 扩展 `chrome://extensions`**
 
 ![](http://seeknowing.b0.upaiyun.com/CReply/creply_install.png)
 
